@@ -8,6 +8,7 @@ public class GitClass {
 		Scanner scanner=new Scanner(System.in);
 		System.out.println("Hola mundo");
 		System.out.println("Hola mundo");
+		System.out.println("Hola mundo");
 		
 		scanner.close();
 		
